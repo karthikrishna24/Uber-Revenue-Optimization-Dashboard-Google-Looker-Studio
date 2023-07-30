@@ -25,7 +25,7 @@ Contibute to this open source project - https://github.com/mage-ai/mage-ai
 ## Dataset Used
 TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
-Here is the dataset used - https://github.com/karthikrishna24/POWER-BI/blob/main/data/uber_data.csv
+Here is the dataset used - https://github.com/karthikrishna24/Uber_ETL_and_Revenue_Optimization_Dashboard-Google_Looker_Studio/blob/main/tbl_analytics.csv
 
 More info about dataset can be found here:
 
@@ -36,8 +36,6 @@ Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_t
 
 ![Uber_Data_Model(ER)](https://github.com/karthikrishna24/POWER-BI/assets/111265282/d18a0672-c89f-4645-ac70-9404f78dd281)
 
-To View the Dashboard follow the repository
-https://github.com/karthikrishna24/Uber_Revenue_Optimization_Dashboard-Google_Looker_Studio
 
 
 
@@ -70,6 +68,3 @@ Link for the Dashboard - https://lookerstudio.google.com/reporting/6e90c323-1ff0
 ## Dataset used
 TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
-The Dataset used here was a transformed data. The raw data was tranformed using a Modern ETL process, to know more about that project, follow the link - https://github.com/karthikrishna24/Uber-ETL
-
-Here is the dataset used - https://github.com/karthikrishna24/Uber_Revenue_Optimization_Dashboard-Google_Looker_Studio/blob/main/tbl_analytics.csv
