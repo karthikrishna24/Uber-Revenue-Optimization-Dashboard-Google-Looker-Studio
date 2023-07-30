@@ -1,3 +1,48 @@
+# Uber Data Analytics | Modern Data Engineering GCP Project
+
+## Introduction
+The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, and BigQuery.
+
+This one is a End-to-End Guided projet 
+
+Link for the video - https://www.youtube.com/watch?v=WpQECq5Hx9g&t=671s
+
+## Architecture
+![architecture](https://github.com/karthikrishna24/POWER-BI/assets/111265282/dee76442-8f6c-4857-a488-1ebe9bf25fe4)
+
+## Technology Used
+Programming Language - Python
+Google Cloud Platform
+
+1. Google Storage
+2. Compute Instance
+3. BigQuery
+
+Modern Data Pipeine Tool - https://www.mage.ai/
+
+Contibute to this open source project - https://github.com/mage-ai/mage-ai
+
+## Dataset Used
+TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
+
+Here is the dataset used - https://github.com/karthikrishna24/POWER-BI/blob/main/data/uber_data.csv
+
+More info about dataset can be found here:
+
+Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
+# Data Model
+
+![Uber_Data_Model(ER)](https://github.com/karthikrishna24/POWER-BI/assets/111265282/d18a0672-c89f-4645-ac70-9404f78dd281)
+
+To View the Dashboard follow the repository
+https://github.com/karthikrishna24/Uber_Revenue_Optimization_Dashboard-Google_Looker_Studio
+
+
+
+
+
 # Uber Data Analysis | Google Looker Studio
 
 ## Introduction
